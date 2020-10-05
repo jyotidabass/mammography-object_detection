@@ -1,0 +1,9 @@
+pandas
+imgaug
+tqdm
+numpy
+opencv-python
+opencv-contrib-python
+ninja
+yacs
+cython
